@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".concept">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/cop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#CDF3CF"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="@string/concept_of_photography"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            />
+
+        <TextView
+            android:id="@+id/cop1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/composition"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="210dp"
+            android:src="@drawable/a1"/>
+
+        <TextView
+            android:id="@+id/cop2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/compo1"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="210dp"
+            android:src="@drawable/a2"/>
+
+        <TextView
+            android:id="@+id/cop3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/compo2"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="210dp"
+            android:src="@drawable/a3"/>
+
+        <TextView
+            android:id="@+id/cop4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/compo3"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="210dp"
+            android:src="@drawable/a5"/>
+
+        <TextView
+            android:id="@+id/cop5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/compo4"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="210dp"
+            android:src="@drawable/a9"/>
+
+        <TextView
+            android:id="@+id/cop6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/compo5"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="210dp"
+            android:src="@drawable/a11"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

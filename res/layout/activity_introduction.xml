@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".introduction">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CDF3CF"
+        android:padding="15dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:text="@string/introduction_string"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        />
+
+    <TextView
+        android:id="@+id/subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/introduction2_string"
+        android:layout_below="@+id/title"
+        android:padding="15dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        />
+
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/subtitle"
+        >
+
+    <TextView
+        android:id="@+id/intro1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/intro"
+        android:layout_below="@+id/subtitle"
+        android:padding="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:gravity="center_horizontal" />
+
+
+
+
+
+
+
+        </ScrollView>
+</RelativeLayout>

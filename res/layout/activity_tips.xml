@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".tips">
+
+    <TextView
+        android:id="@+id/tips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CDF3CF"
+        android:padding="15dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:text="@string/tips"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        />
+
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tips"
+        >
+
+        <TextView
+            android:id="@+id/tips1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/tips_string"
+            android:layout_below="@+id/tips"
+            android:padding="15dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            tools:ignore="ObsoleteLayoutParam,ScrollViewSize" />
+
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Photography Guide</string>
+
+    <string name="intro">
+    <br> Photography is an art and a form of creative expression; to master this art one needs to understand the concept of photography.</br>
+    <br>Photography is all about freezing and immortalizing the precious moments to cherish forever.</br>
+    <br>This app is developed for photography enthusiasts, who use a DSLR, Compact Camera or a Mobile phone, and like to learn and understand photography easily in short span of time.</br>
+
+    <br> <b>Tips: Useful tips for the beginner.</b> </br>
+
+    <br> <b>1. Light:</b> This section tells about the importance of light, and different types of light conditions used in photography.</br>
+    <br> <b>2. Color:</b> The use of color and its influences in photography is explained in the section.</br>
+    <br> <b>3.Concept of Photography:</b> This section explains the factors that are essential to make good photographs.</br>
+    <br> <b>4. Gallery:</b> Photographs used as samples and explaining the photographs are shown in the gallery.</br>
+    <br> <b>5. Photo Editing:</b> Changing the color and editing a photo is explained in this section.</br>
+    <br> <b>6. Conclusion</b> consist of list of practices to be followed in order to be a good photographer. </br>
+</string>
+
+    <string name="introduction_string">INTRODUCTION</string>
+    <string name="introduction2_string">Welcome to Photography Guide App</string>
+
+    <string name="tips">TIPS</string>
+    <string name="tips_string">
+    Here are some tips that will help you with photography.
+        <br>To be a good photographer one needs to be patient, especially when photographing wildlife.</br>
+<br />While clicking, learn to keep your hands steady. There is scope of a shake when pressing the click button.
+<br />Try to keep your elbow close to your body to give support to your hand when holding a camera. Support the camera from below, with the palm of your hand, and use the fingers to set the focus. Use the other hand to hold the camera, turn the dial and  to press the click button.
+<br />The click button focuses the subject when it is half pressed. Learn to use the click button to focus the subject; fully pressing the click button will capture the photo.
+<br />Strap the belt of the camera to your wrist, or sling it around your neck.
+<br />Do not touch the camera lens with your fingers use a good cleaning cloth.
+<br />Use tripod stand while taking long shots and while using show shutter speed settings.
+<br />Take care while shooting under the sun, avoid direct sunlight onto the lens and also protect the camera from moisture and dust.
+<br />Transfer the photos from the card to computer or to the storage device as soon as you are back from shoot.
+<br />Avoid much use of LCD, as it could drain the battery.
+<br />Get to know your clients/subjects before the photo session. This will help you and the client (subject) to understand each other well and prepare for the session.
+<br />Place the accessories in the bag immediately after use.
+<br />When going outdoors for shoots, ensure the batteries are fully charged, if possible carry extra fully charged batteries, and carry extra cards for storage of photographs.
+<br />When editing a photo try to maintain
+<br /> Simplicity and originality in the photos.
+    </string>
+
+    <string name="concept_of_photography">CONCEPT OF PHOTOGRAPHY</string>
+
+    <string name="composition">
+        <b>Composition</b> is a technique used in making good photos.
+        Composition includes Framing, Rule of Thirds, Leading Lines, Textures and Patterns.
+        Whether using a DSLR, Compact camera or a mobile phone camera, the knowledge of composition helps in understanding photography.
+        Before clicking photo check the place, viewpoint/perspective, who and what to be photograph.
+        Check which viewpoint would be better; eye level, ground level, top angle low angle or side angles, Far shots or close up.
+
+    </string>
+
+    <string name="compo1">
+        Get to the right level of the subject.
+        For smaller subjects such as pets, and for a person seated on the ground, get to their eye level. U
+        se the landscape view when the scene is wide or the portrait view when the subject is tall.
+        Ensure proper composition that conveys a sense of depth on photograph, by including objects in the foreground, middle and background to avoid flat image.
+        Composition is one of the most important aspects for a good photograph.
+        One needs to understand what and what not to photograph what to include in the photo and not, what make photograph interesting and will explain the purpose of the photograph.
+        Check if the subjects blends with the background, or in the background is creating disturbing scene, which makes the photo boring and unpleasant.
+    </string>
+
+    <string name="compo2">
+        <b>Framing:</b>
+        We encounter natural frames everyday in our lives, such as boulevards, streets and lined up with buildings, trees, archways, street lamps, and posts, fencing etc.
+        Using these as frames helps us in getting a good photo.
+        The trees can be used as frame as shown in the photos below.
+    </string>
+
+    <string name="compo3">
+        <b>Rule of thirds:</b> The “Rule of thirds” is to compose the scene to fit in a grid of 2 horizontal and vertical lines that make 9 equal segments.
+        According to the rule of thirds one should position the most important elements in scene along these lines, or at the points where the line intersect.
+        Doing so will add balance and create an interesting photograph. Some cameras display the “rule of thirds” grid over the display screen, making it easier to use.
+        It is not very necessary to always place the subject in the centre of the photograph.
+    </string>
+
+    <string name="compo4">
+    <b>Leading lines:</b> When we look at the photo with lines, our view is naturally drawn along lines towards a point.
+        Observing and including line in composition, we can affect the way we view the image, guiding us in the photo towards the subject, or on a journey through the scene.
+        Straight lines such as horizons tend to impart a serene feeling, that is emphasized in panoramic format.
+        Diagonal lines tend to take viewer’s eye through the image and create a sense of movement and dynamism making it look more energetic and attractive.
+    </string>
+
+    <string name="compo5">
+    <b>Symmetry and Patterns:</b> We are surrounded by symmetry and patterns, both natural and man-made, they make eye catching composition.
+        Patterns help create a strong composition.
+        Another great way to use them is to break the symmetry or pattern in some way, introducing mystery and symmetry focal points to the scene.
+
+    </string>
+
+
+
+
+    <string name="conclusion">CONCLUSION</string>
+    <string name="conclusion_string">
+        <br>
+        We hope that you were able to learn photography basics or have enhanced your exiting photography skills.</br>
+In conclusion we would like to advise you to practice your photography skills thoroughly. Take as many photos as possible with different ISO, Aperture and shutter speed settings. Photography as mentioned earlier is an Art. Try to master the art, by taking photographs at various places, different times of the day and night, moving subjects, birds, animal, butterflies, flowers, people and landscapes.
+Photography is not as simples as taking a camera and clicking photos. You may come across many hurdles, such as bad light, bad weather, bad mood of the people you are photographic etc. You need to be patient and work things out in a pleasant manner.
+Whenever you click a photo, try to note down the setting and adjustments that have been used. This will help you understand the working of the camera better.
+Build a rapport with you subject understand their expressions and behavior, likes and dislikes and concentrate on what you need to achieve.
+Take consent of the people you wish to photograph, if possible, especially when you are in a public place among strangers. When people agree pose for a photograph, you will get a good smiling and pleasant pose to click.
+We also recommend you to browse the internet and learn more about the topics of your interests.
+Participate in as many photography competitions as possible.
+Enroll yourself in photography clubs, groups, etc. Associating with members of such group allows you to share your knowledge and learn from other members and also an opportunity to visit interesting places with the people of similar interest and passion.
+Share your photographs online. There are many websites that allow you to share and sell your photos.
+Mark your photos for copy right in a proper manner. Do not print the name across the photo such as watermark. But place the name, your logo at the bottom right of the photo.
+Caption the photograph and learn to write a story or a few words about your Photo, include few lines, quote or a message.
+Respect nature while photographing birds and animals. Do not disturb their habitat. Understand their behavior and movements.
+Keep editing to the minimum; do not overdo changes by cutting and pasting objects into the photograph or manipulate photo in such a manner that would misrepresent subjects in the photograph.
+Do not be afraid of mistakes, everybody makes mistakes. The best thing about making mistakes is it helps us learn. When you make a mistake, it means that you are trying and will develop your skill in photography.
+    </string>
+
+
+    <string name="photo_editing">PHOTO EDITING</string>
+
+    <string name="pe1">
+    There are many digital photo editing software available today, but the most commonly use are Microsoft Office picture manager and Photoshop.
+        The following are some of the simple and easy methods used to edit photographs. Editing is a post photography method that is used to adjust and make changes in the photograph to get the desired results.
+        If you are using Photoshop you will notice a drop down menu image which will allow you to make adjustments.
+        Here you can adjust the level, contrast, brightness, color, balance, black and white, saturation, etc.
+
+    </string>
+
+    <string name="pe2">
+        <b>Cropping:</b> Focus on the essential details in the photograph  and crop only the areas of the photograph that are not required.
+        Cropping is also done for getting the right composition.
+        Cropping should be done in such a manner that the photograph looks unedited and the proportional dimensions of the photograph are maintained or the photograph will look flawed.
+        For cropping refer rule of thumbs in concept of photography.
+    </string>
+
+    <string name="pe3">
+        <b>Brightness/ Contrast:</b> Changing the brightness and contrast are one of the simplest things that can be done to a photograph.
+        To make photo lighter or darker, the brightness and contrast levels can be increased or decreased.
+    </string>
+
+    <string name="pe4">
+        <b>Auto levels and Auto color change</b> the color levels automatically.
+        The levels dialog box is used to correct the tonal range and color balance of the photograph by adjusting the intensity levels viz shadows, mid tones and highlights.
+    </string>
+
+    <string name="pe5">
+        <b>Shadows and Highlights:</b>
+        These adjustments allow you to brighten the dark regions of the photograph and darken the bright regions.
+    </string>
+
+    <string name="pe6">
+        <b>Black and White:</b> Earlier photographers had no choice but to shoot in black and white.
+        As technology paved way for color photography, color became very important and now the cameras have an option to shoot in color or black and white.
+        But what is so special about black and white photographs.
+        The answer is because, our eyes cannot see in monochrome without help of visual aids, and since we see everything in color, we tend to give importance to black and white is the purest form of color.
+    </string>
+    <string name="photo_edting_samples">Photo Edting Samples:</string>
+
+</resources>
